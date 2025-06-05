@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rosemary
 
 💼 **IT Apprentice**  
-🌱 **College Student**
+🌱 **College Student**  
 🎯 **Aspiring Web Developer**  
 💡 *If you don't give up you haven't lost.*
 
