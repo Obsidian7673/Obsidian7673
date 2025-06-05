@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Rosemary
 
-<!--
-**Obsidian7673/Obsidian7673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **IT Apprentice**  
+🌱 **College Student**
+🎯 **Aspiring Web Developer**  
+💡 *If you don't give up you haven't lost.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+- **Languages:** JavaScript (JS), CSS, HTML
+- **Frameworks:** React
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn: Rosemary Thorn](https://img.shields.io/badge/-Rosemary%20Thorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosemary-thorn-35716b36a)](https://www.linkedin.com/in/rosemary-thorn-35716b36a)
+
+---
+
+## 🛠️ About Me
+
+- Currently an IT Apprentice and student working toward a career in web development.
+- Focused on building foundational skills in front-end technologies.
+- Interested in practical, real-world applications of software and technology.
+
+---
+
+## 📜 Motto
+
+> *If you don't give up you haven't lost.*
