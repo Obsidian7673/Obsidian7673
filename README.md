@@ -3,7 +3,6 @@
 💼 **IT Apprentice**  
 🌱 **College Student**  
 🎯 **Aspiring Web Developer**  
-💡 *If you don't give up you haven't lost.*
 
 ---
 
@@ -22,7 +21,7 @@
 
 ## 🛠️ About Me
 
-- Currently an IT Apprentice and student working toward a career in web development.
+- Currently an IT Apprentice and student, working toward a career in web development.
 - Focused on building foundational skills in front-end technologies.
 - Interested in practical, real-world applications of software and technology.
 
