@@ -4,7 +4,7 @@
 - 🎓 Currently working towards an Associate in Science
 
 ### 🌐 My Links
-[![Website](https://img.shields.io/badge/obsidianrose.dev-%23141216?logo=devbox&logoColor=%23ff79c6&labelColor=%23282a36&link=obsidianrose.dev)](obsidianrose.dev)
+[![Website](https://img.shields.io/badge/obsidianrose.dev-%23141216?logo=devbox&logoColor=%23ff79c6&labelColor=%23282a36&link=obsidianrose.dev)](https://www.obsidianrose.dev)
 [![Linkenin](https://img.shields.io/badge/-Rosemary%20Thorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosemary-thorn-35716b36a)](https://www.linkedin.com/in/rosemary-thorn-35716b36a)
 
 
